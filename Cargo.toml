@@ -1,0 +1,7 @@
+[package]
+name = "rurl"
+version = "0.1.0"
+authors = ["Leonardo Pepe <leonardo.pepe@m4u.com.br>"]
+
+[dependencies]
+hyper = "*"
